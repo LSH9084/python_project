@@ -12,7 +12,7 @@ for i in b :
         print(i+e)
     }
     if(i=='다'):{
-        print(i+f)
+        print(i+f) 
     }
         
 for i in b:
@@ -20,6 +20,7 @@ for i in b:
         if(i+j == '가디언''나라''다람쥐'):{
             print(i+j)
         }
+            
 b = ['나','마','다']
 b.append('라')
 b.remove('마')
@@ -28,5 +29,7 @@ b.insert(0,'가')
 
 for i in b : 
     print(i)
-
+i="hello taehun"
+j="*"
+print (j*20)
 
